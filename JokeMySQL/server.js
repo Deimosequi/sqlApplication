@@ -41,6 +41,7 @@ const options = {
         servers: [
             {
                 url: "http://localhost:3000/jokes",
+                url: "http://20.189.78.142:3000/jokes",
             },
         ],
     },
